@@ -1,0 +1,1 @@
+In this we have learnt about the internal working of the perceptron. How are the input data points processed one they are passed on. However, this is the most basic version just to get the essence of working.
